@@ -1,0 +1,12 @@
+/* PHONE
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: lightblue;
+    }
+*/
+@media (min-width: @screen-sm-min){
+
+h3{
+	font-size: 1em;
+}
+}
